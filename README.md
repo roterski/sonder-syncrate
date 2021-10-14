@@ -65,26 +65,27 @@ It's my goal as software engineer to keep my tool-set up to date with latest tre
 ### Minimal Complexity
   - consistent abstractions throughout the full-stack
   - single language -> fewer concepts -> better comprehension  -> less communication churn
-  - must be suitable for small teams developers
+  - must be suitable for small teams / solo developers
 ### Short Feedback Loops
-  - the shorter the delay between change and observing its effects, the faster and more timely change can be
-  - examples: Test Driven Development, REPL-driven development, Agile iteration
+  - the shorter the delay between change and observing its effects, the faster and more timely change can be -> better adaptibility
+  - examples: Test Driven Development, REPL-Driven Development, Agile iteration cycle
 ### Re-usability
   - composition -> reuse without increasing complexity
   - frameworks -> reuse of architecture
 ### Multi-platform
-  - to compete with big players
-  - shared codebase -> sustainable for small teams
+  - to compete with big players you must be present on all/most relevant platforms
+  - shared codebase between platforms -> less moving parts -> more sustainable
+
 
 # Non-goals
 
 ### Familiarity
-  - not limiting oneself only to known solutions
+  - we should not limit ourselves only to already known solutions
 ### Easy learning curve
-  - willing to up-front invest in learning
+  - we are willing to invest time and effort in learning and gaining mastery
 ### Popularity
   - helpful, but not a requirement
-  - following masses doesn't give the competitive edge
+  - following crowds doesn't give the competitive edge
 
 
 # My Background
@@ -98,6 +99,7 @@ I have actively tried to stay on top of it - working with Rails and Node in dail
 Following trends closely was a fascinating journey. I witnessed how different ideas compete with each other in an effort to innovate better ways of building applications.
 
 After spending of +4 years working professionally with Ruby on Rails I've grown aware of its limitations. I've spent a long time searching for its successor in my programmer's toolbelt. I've waded through numerous Javascript frameworks yet every one of them proved to disappoint me after taking it for a spin.
+
 
 I've finally arrived at Clojure at the beginning of 2019 and it has been really refreshing.
 I love how well designed the language is, how mature the community is and I am amazed by the quality of the ecosystem.
